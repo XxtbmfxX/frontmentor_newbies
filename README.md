@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [UWU](https://github.com/XxtbmfxX/frontmentor_newbies)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [:D](https://xxtbmfxx.github.io/frontmentor_newbies/)
 
 ## My process
 
